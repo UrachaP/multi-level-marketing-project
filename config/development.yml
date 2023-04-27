@@ -1,0 +1,5 @@
+username: mlm_dev
+password: mlm_dev
+database: mlm
+host: '127.0.0.1'
+port: '3306'
